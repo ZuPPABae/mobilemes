@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "768976573254",
+    "firebase_url": "https://promes-abf91-default-rtdb.firebaseio.com",
+    "project_id": "promes-abf91",
+    "storage_bucket": "promes-abf91.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768976573254:android:e7e8f3bdd35e9ba627cb47",
+        "android_client_info": {
+          "package_name": "com.example.proyek"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAih_6smHI-SBCSeJ1Veci2uX9abhEbkIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
